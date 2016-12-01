@@ -1,0 +1,16 @@
+
+Prelude.read
+  can parse integers FAILED [1]
+  can parse floating-point numbers
+
+Failures:
+
+  test/Spec.hs:8: 
+  1) Prelude.read can parse integers
+       expected: 9
+        but got: 10
+
+Randomized with seed 44670566
+
+Finished in 0.0137 seconds
+2 examples, 1 failure
